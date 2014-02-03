@@ -1,0 +1,11 @@
+sampleName	fileName	condition
+D17p7_A2_nuc	counts_D17p7_A2_nuc.txt	nuc
+D17p7_B7_nuc	counts_D17p7_B7_nuc.txt	nuc
+D17p7_B8_cyto	counts_D17p7_B8_cyto.txt	cyto
+D17p7_A3_cyto	counts_D17p7_A3_cyto.txt	cyto
+D17p7_B9_memb	counts_D17p7_B9_memb.txt	memb
+D17p7_A4_memb	counts_D17p7_A4_memb.txt	memb
+D17p7_B10_insol	counts_D17p7_B10_insol.txt	insol
+D17p7_A5_insol	counts_D17p7_A5_insol.txt	insol
+R2-total-depl	counts_R2-total-depl.txt	total
+R1-total-depl	counts_R2-total-depl.txt	total
